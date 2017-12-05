@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="copia_banco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/copia_banco_jar</output-path>
+    <root id="archive" name="copia_banco.jar">
+      <element id="module-output" name="copia_banco" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../local-controle-hsqldb-v2/hsqldb_jar/hsqldb.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
